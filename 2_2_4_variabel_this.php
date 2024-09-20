@@ -21,4 +21,8 @@ $hp_daffa->mengirim_pesan();
 
 echo "Jumlah pulsa Latif sekarang ";
 echo $hp_latif->jml_pulsa;
+echo "<br>";
+
+echo "Jumlah pulsa Daffa sekarang ";
+echo $hp_daffa->jml_pulsa;
 ?>
